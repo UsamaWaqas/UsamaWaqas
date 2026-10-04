@@ -85,11 +85,15 @@ Tracks trials, renewals, and spend entirely on-device by default, with a small N
 
 <table>
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/UsamaWaqas/UsamaWaqas/main/assets/dueline/1-home.png" width="160" alt="Home"/><br/>Home</td>
-<td align="center"><img src="https://raw.githubusercontent.com/UsamaWaqas/UsamaWaqas/main/assets/dueline/2-budget-alert.png" width="160" alt="Budget alert"/><br/>Budget alert</td>
-<td align="center"><img src="https://raw.githubusercontent.com/UsamaWaqas/UsamaWaqas/main/assets/dueline/3-yearly-report.png" width="160" alt="Yearly report"/><br/>Yearly report</td>
-<td align="center"><img src="https://raw.githubusercontent.com/UsamaWaqas/UsamaWaqas/main/assets/dueline/4-split-bill.png" width="160" alt="Split bill"/><br/>Split bill</td>
-<td align="center"><img src="https://raw.githubusercontent.com/UsamaWaqas/UsamaWaqas/main/assets/dueline/5-themes-icons.png" width="160" alt="Themes & icons"/><br/>Themes & icons</td>
+<td align="center"><img src="https://raw.githubusercontent.com/UsamaWaqas/UsamaWaqas/main/assets/dueline/1_onboarding.png" width="160" alt="Onboarding"/><br/>Onboarding</td>
+<td align="center"><img src="https://raw.githubusercontent.com/UsamaWaqas/UsamaWaqas/main/assets/dueline/2_home.png" width="160" alt="Home"/><br/>Home</td>
+<td align="center"><img src="https://raw.githubusercontent.com/UsamaWaqas/UsamaWaqas/main/assets/dueline/3_subscriptions.png" width="160" alt="Subscriptions"/><br/>Subscriptions</td>
+<td align="center"><img src="https://raw.githubusercontent.com/UsamaWaqas/UsamaWaqas/main/assets/dueline/4_subscription_detail.png" width="160" alt="Subscription detail"/><br/>Subscription detail</td>
+</tr>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/UsamaWaqas/UsamaWaqas/main/assets/dueline/5_yearly_report.png" width="160" alt="Yearly report"/><br/>Yearly report</td>
+<td align="center"><img src="https://raw.githubusercontent.com/UsamaWaqas/UsamaWaqas/main/assets/dueline/6_smart_features.png" width="160" alt="Smart features"/><br/>Smart features</td>
+<td align="center"><img src="https://raw.githubusercontent.com/UsamaWaqas/UsamaWaqas/main/assets/dueline/7_go_premium.png" width="160" alt="Go Premium"/><br/>Go Premium</td>
 </tr>
 </table>
 
