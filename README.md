@@ -25,15 +25,35 @@ Blocks distracting apps and sites at the OS level via a custom native Android mo
 - A rule-snapshot architecture so enforcement keeps running even if the JS app is killed or the device reboots
 - Boot/tamper/battery watchdogs for OEM battery-killers (Xiaomi/MIUI, etc.)
 
+<table>
+<tr>
+<td align="center"><img src="assets/focuswarden/01-Dashboard.png" width="160" alt="Dashboard"/><br/>Dashboard</td>
+<td align="center"><img src="assets/focuswarden/02-Apps.png" width="160" alt="Apps"/><br/>Apps</td>
+<td align="center"><img src="assets/focuswarden/03-Websites.png" width="160" alt="Websites"/><br/>Websites</td>
+<td align="center"><img src="assets/focuswarden/04-Location.png" width="160" alt="Location"/><br/>Location</td>
+<td align="center"><img src="assets/focuswarden/05-Settings.png" width="160" alt="Settings"/><br/>Settings</td>
+</tr>
+</table>
+
 *(Private repository — available on request.)*
 
-### [DutchUp](https://github.com/UsamaWaqas/DutchUP) — Splitwise-style expense splitting
+### [DutchUp](https://github.com/UsamaWaqas/DutchUP) — a group expense-splitting app
 
 Group expenses, itemized receipts, and multi-currency balances on Supabase (Postgres + Auth + RLS), with no custom backend of its own.
 
 - Pure debt-simplification math — reduces a group's tangled balances to the fewest actual payments
 - On-device receipt OCR (ML Kit) that prefills an expense total from a photo, no cloud call
 - Live currency conversion for balances, degrading gracefully to a 1:1 rate if the rate API is unreachable
+
+<table>
+<tr>
+<td align="center"><img src="assets/dutchup/1-welcome-login.png" width="160" alt="Welcome / Login"/><br/>Welcome / Login</td>
+<td align="center"><img src="assets/dutchup/2-create-account.png" width="160" alt="Create Account"/><br/>Create Account</td>
+<td align="center"><img src="assets/dutchup/3-add-expense.png" width="160" alt="Add Expense"/><br/>Add Expense</td>
+<td align="center"><img src="assets/dutchup/4-group-overview.png" width="160" alt="Group Overview"/><br/>Group Overview</td>
+<td align="center"><img src="assets/dutchup/5-expense-detail.png" width="160" alt="Expense Detail"/><br/>Expense Detail</td>
+</tr>
+</table>
 
 *(Private repository — available on request.)*
 
