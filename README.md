@@ -27,11 +27,11 @@ Blocks distracting apps and sites at the OS level via a custom native Android mo
 
 <table>
 <tr>
-<td align="center"><img src="assets/focuswarden/01-Dashboard.png" width="160" alt="Dashboard"/><br/>Dashboard</td>
-<td align="center"><img src="assets/focuswarden/02-Apps.png" width="160" alt="Apps"/><br/>Apps</td>
-<td align="center"><img src="assets/focuswarden/03-Websites.png" width="160" alt="Websites"/><br/>Websites</td>
-<td align="center"><img src="assets/focuswarden/04-Location.png" width="160" alt="Location"/><br/>Location</td>
-<td align="center"><img src="assets/focuswarden/05-Settings.png" width="160" alt="Settings"/><br/>Settings</td>
+<td align="center"><img src="https://raw.githubusercontent.com/UsamaWaqas/UsamaWaqas/main/assets/focuswarden/01-Dashboard.png" width="160" alt="Dashboard"/><br/>Dashboard</td>
+<td align="center"><img src="https://raw.githubusercontent.com/UsamaWaqas/UsamaWaqas/main/assets/focuswarden/02-Apps.png" width="160" alt="Apps"/><br/>Apps</td>
+<td align="center"><img src="https://raw.githubusercontent.com/UsamaWaqas/UsamaWaqas/main/assets/focuswarden/03-Websites.png" width="160" alt="Websites"/><br/>Websites</td>
+<td align="center"><img src="https://raw.githubusercontent.com/UsamaWaqas/UsamaWaqas/main/assets/focuswarden/04-Location.png" width="160" alt="Location"/><br/>Location</td>
+<td align="center"><img src="https://raw.githubusercontent.com/UsamaWaqas/UsamaWaqas/main/assets/focuswarden/05-Settings.png" width="160" alt="Settings"/><br/>Settings</td>
 </tr>
 </table>
 
@@ -47,15 +47,33 @@ Group expenses, itemized receipts, and multi-currency balances on Supabase (Post
 
 <table>
 <tr>
-<td align="center"><img src="assets/dutchup/1-welcome-login.png" width="160" alt="Welcome / Login"/><br/>Welcome / Login</td>
-<td align="center"><img src="assets/dutchup/2-create-account.png" width="160" alt="Create Account"/><br/>Create Account</td>
-<td align="center"><img src="assets/dutchup/3-add-expense.png" width="160" alt="Add Expense"/><br/>Add Expense</td>
-<td align="center"><img src="assets/dutchup/4-group-overview.png" width="160" alt="Group Overview"/><br/>Group Overview</td>
-<td align="center"><img src="assets/dutchup/5-expense-detail.png" width="160" alt="Expense Detail"/><br/>Expense Detail</td>
+<td align="center"><img src="https://raw.githubusercontent.com/UsamaWaqas/UsamaWaqas/main/assets/dutchup/1-welcome-login.png" width="160" alt="Welcome / Login"/><br/>Welcome / Login</td>
+<td align="center"><img src="https://raw.githubusercontent.com/UsamaWaqas/UsamaWaqas/main/assets/dutchup/2-create-account.png" width="160" alt="Create Account"/><br/>Create Account</td>
+<td align="center"><img src="https://raw.githubusercontent.com/UsamaWaqas/UsamaWaqas/main/assets/dutchup/3-add-expense.png" width="160" alt="Add Expense"/><br/>Add Expense</td>
+<td align="center"><img src="https://raw.githubusercontent.com/UsamaWaqas/UsamaWaqas/main/assets/dutchup/4-group-overview.png" width="160" alt="Group Overview"/><br/>Group Overview</td>
+<td align="center"><img src="https://raw.githubusercontent.com/UsamaWaqas/UsamaWaqas/main/assets/dutchup/5-expense-detail.png" width="160" alt="Expense Detail"/><br/>Expense Detail</td>
 </tr>
 </table>
 
 *(Private repository — available on request.)*
+
+### [AssetGrid](https://github.com/UsamaWaqas/AssetGrid) — a full-stack IoT asset management platform
+
+Monitors connected sensors across automated buildings, marina/boat fleets, and general inventory on Next.js 16 + Supabase, with a CRM, device storefront, and Stripe-backed billing layered on top.
+
+- 118 Postgres tables, 140 Row-Level Security policies — the database enforces access, not application code
+- Telemetry range-partitioned by month (41 partitions) for 10M+ sensor readings with no query slowdown
+- Server-first architecture: Server Components read, Server Actions write, no REST layer, strict TypeScript end to end
+
+<table>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/UsamaWaqas/UsamaWaqas/main/assets/assetgrid/02.png" width="160" alt="AssetGrid dashboard"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/UsamaWaqas/UsamaWaqas/main/assets/assetgrid/03.png" width="160" alt="AssetGrid screen"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/UsamaWaqas/UsamaWaqas/main/assets/assetgrid/04.png" width="160" alt="AssetGrid screen"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/UsamaWaqas/UsamaWaqas/main/assets/assetgrid/05.png" width="160" alt="AssetGrid screen"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/UsamaWaqas/UsamaWaqas/main/assets/assetgrid/06.png" width="160" alt="AssetGrid screen"/></td>
+</tr>
+</table>
 
 ## Links
 
