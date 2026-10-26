@@ -17,7 +17,7 @@ Full-stack engineer building production mobile and web apps end to end — React
 
 ## Featured projects
 
-### [LockFocus](https://github.com/UsamaWaqas/LockFocus) — FocusWarden, a screen-time & digital-wellbeing app
+### LockFocus — FocusWarden, a screen-time & digital-wellbeing app
 
 Blocks distracting apps and sites at the OS level via a custom native Android module — not just inside the app itself.
 
@@ -55,7 +55,6 @@ Group expenses, itemized receipts, and multi-currency balances on Supabase (Post
 </tr>
 </table>
 
-*(Private repository — available on request.)*
 
 ### [AssetGrid] — a full-stack IoT asset management platform
 
