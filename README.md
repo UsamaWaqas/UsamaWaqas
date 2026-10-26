@@ -57,7 +57,7 @@ Group expenses, itemized receipts, and multi-currency balances on Supabase (Post
 
 *(Private repository — available on request.)*
 
-### [AssetGrid](https://github.com/UsamaWaqas/AssetGrid) — a full-stack IoT asset management platform
+### [AssetGrid] — a full-stack IoT asset management platform
 
 Monitors connected sensors across automated buildings, marina/boat fleets, and general inventory on Next.js 16 + Supabase, with a CRM, device storefront, and Stripe-backed billing layered on top.
 
